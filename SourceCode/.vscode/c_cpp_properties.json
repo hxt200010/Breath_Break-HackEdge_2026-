@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "MSP430",
+            "includePath": [
+                "${workspaceFolder}/V 3.0.0/AFE4950 V3.0.0",
+                "${workspaceFolder}/V 3.0.0/AFE4950 V3.0.0/**"
+            ],
+            "defines": [
+                "__MSP430F5528__"
+            ],
+            "intelliSenseMode": "gcc-x86",
+            "cStandard": "c99"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;BQF0008_FRAM&apos;" deleteContents="false" description="Delete resource &apos;BQF0008_FRAM&apos;" element1="/BQF0008_FRAM" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1640141297600"/>&#x0A;<refactoring comment="Delete resource &apos;BQF0064_FRAM&apos;" deleteContents="false" description="Delete resource &apos;BQF0064_FRAM&apos;" element1="/BQF0064_FRAM" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1640141835613"/>
+</session>

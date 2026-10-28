@@ -1,0 +1,103 @@
+﻿Field=#~Integer~#~50|Field=Fitted~String~Fitted~200|Field=Description~String~Description~200|Field=Designator~String~Designator~200|Field=PartNumber~String~PartNumber~200|Field=Quantity~Integer~Quantity~200|Field=Manufacturer~String~Manufacturer~200|Field=PackageReference~String~PackageReference~200|Field=Value~String~Value~200|Field=Alternate Manufacturer~String~Alternate Manufacturer~200|Field=Alternate PartNumber~String~Alternate PartNumber~200|ReportField=Currency~USD|ReportField=ProductionQuantity~100|ReportField=ProjectFileName~AFE4950EVM-DC116A.PrjPcb|ReportField=ProjectFullPath~C:\WORK\MEDICAL\AFE4950EVM\REVA\ALTIUM MODIFIED, PCB UPDATED\Files\AFE4950EVM-DC116A (9-24-2020 9-43-47 PM)\AFE4950EVM-DC116A.PrjPcb|ReportField=Title~BOM (EVM format) For Variant [001] of Project [AFE4950EVM-DC116A.PrjPcb] (No PCB Document Selected)|ReportField=ReportTime~10:21:23 AM|ReportField=ReportDate~9/25/2020|ReportField=ReportDateTime~9/25/2020 10:21:23 AM|ReportField=OutputName~BOM (EVM format)|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~001|ReportField=TotalQuantity~254|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=EVM_Orderable~AFE4950EVM|ReportField=CopyrightYear~2018|ReportField=PCB_Layout~MANJUNATHA B|ReportField=PCB_Rev~A|ReportField=PRJ_Customer~Public Release|ReportField=PRJ_Engineer~Midhun Raveendran|ReportField=PRJ_Number~DC116|ReportField=PRJ_Title~AFE4950EVM|ReportField=SCH_Rev~A|ReportField=TechSupport~http://www.ti.com/support|ReportField=TID~N/A|ReportField=Address1~Not shown in title block|ReportField=Address2~Not shown in title block|ReportField=Address3~Not shown in title block|ReportField=Address4~Not shown in title block|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~Not shown in title block|ReportField=Author~Not shown in title block|ReportField=CheckedBy~Not shown in title block|ReportField=CompanyName~Not shown in title block|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~9/25/2020|ReportField=CurrentTime~10:10:20 AM|ReportField=Date~Not shown in title block|ReportField=DocumentFullPathAndName~C:\WORK\MEDICAL\AFE4950EVM\REVA\ALTIUM MODIFIED, PCB UPDATED\Files\AFE4950EVM-DC116A (9-24-2020 9-43-47 PM)\DC116_AFE4950.SchDoc|ReportField=DocumentName~DC116_AFE4950.SchDoc|ReportField=DocumentNumber~2|ReportField=DrawnBy~Midhun Raveendran|ReportField=Engineer~Midhun Raveendran|ReportField=ImagePath~Not shown in title block|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~9/24/2020|ReportField=Organization~Not shown in title block|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.00:XCorrection=1.00:YCorrection=1.00:PrintKind=0:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=15:PrintQuality=600:MediaType=1:DitherType=10:PaperKind=Letter:PrintScaleMode=1|ReportField=ProjectName~AFE4950EVM-DC116A.PrjPcb|ReportField=Revision~Use project parameter SCH_Rev|ReportField=Rule~|ReportField=SheetNumber~2|ReportField=SheetTotal~8|ReportField=Time~Not shown in title block|ReportField=Title~AFE|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~AFE4950EVM-DC116A.PrjPcb|ReportField=DataSourceFullPath~C:\WORK\MEDICAL\AFE4950EVM\REVA\ALTIUM MODIFIED, PCB UPDATED\Files\AFE4950EVM-DC116A (9-24-2020 9-43-47 PM)\AFE4950EVM-DC116A.PrjPcb|ReportField=PCBConfigurationName~Bare PCB|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Fitted|Printed Circuit Board|!PCB1|DC116|1|Any||||
+2|Fitted|CAP, CERM, 10 uF, 25 V, +/- 20%, X5R, 0603|C1, C5, C6, C29, C54, C55, C56, C57, C59, C60, C61|C1608X5R1E106M080AC|11|TDK|0603|10uF||
+3|Fitted|CAP, CERM, 10 uF, 6.3 V, +/- 20%, X5R, 0402|C2, C73, C76|GRM155R60J106ME44D|3|MuRata|0402|10uF||
+4|Fitted|CAP, CERM, 1000 pF, 50 V, +/- 20%, X7R, 0402|C3, C7, C64|C1005X7R1H102M050BE|3|TDK|0402|1000pF||
+5|Fitted|CAP, CERM, 0.1 uF, 16 V, +/- 10%, X7R, 0402|C4, C8, C9, C10, C14, C15, C17, C19, C20, C23, C24, C25, C26, C40, C43, C49, C50, C51|0402YC104KAT2A|18|AVX|0402|0.1uF||
+6|Fitted|CAP, TA, 22 uF, 6.3 V, +/- 20%, 5.4 ohm, SMD|C13|TLJN226M006R5400|1|AVX|2012-10|22uF||
+7|Fitted|CAP, CERM, 10 uF, 16 V, +/- 20%, X5R, 0603|C16, C65, C67, C68, C69, C70, C71|EMK107BBJ106MA-T|7|Taiyo Yuden|0603|10uF||
+8|Fitted|CAP, CERM, 0.047 µF, 25 V,+/- 10%, X5R, 0201|C30, C33, C36|C0603X5R1E473K030BB|3|TDK|0201|0.047uF||
+9|Fitted|CAP, CERM, 47 pF, 25 V, +/- 5%, C0G/NP0, 0201|C31, C34|GRM0335C1E470JA01D|2|MuRata|0201|47pF||
+10|Fitted|CAP, CERM, 2200 pF, 50 V, +/- 10%, X7R, 0402|C37|GRM155R71H222KA01D|1|MuRata|0402|2200pF||
+11|Fitted|CAP, CERM, 10 pF, 50 V, +/- 5%, C0G/NP0, 0402|C38, C39, C46, C48|500R07S100JV4T|4|Johanson Technology|0402|10pF||
+12|Fitted|CAP, CERM, 4.7 uF, 10 V, +/- 10%, X5R, 0402|C41|C1005X5R1A475K050BC|1|TDK|0402|4.7uF||
+13|Fitted|CAP, CERM, 2.2 uF, 10 V, +/- 10%, X5R, 0603|C42|C0603C225K8PACTU|1|Kemet|0603|2.2uF||
+14|Fitted|CAP, CERM, 12 pF, 50 V, +/- 5%, C0G/NP0, 0402|C44, C45|CL05C120JB5NNNC|2|Samsung Electro-Mechanics|0402|12pF||
+15|Fitted|CAP, CERM, 0.47 uF, 6.3 V, +/- 10%, X5R, 0402|C47|04026D474KAT2A|1|AVX|0402|0.47uF||
+16|Fitted|CAP, CERM, 10 uF, 6.3 V, +/- 20%, X5R, 0603|C52, C53|GRM188R60J106ME47D|2|MuRata|0603|10uF||
+17|Fitted|CAP, CERM, 1 µF, 25 V,+/- 10%, X5R, 0603|C58, C74, C75|TMK107BJ105KA-T|3|Taiyo Yuden|0603|1uF||
+18|Fitted|CAP, CERM, 0.01 uF, 50 V, +/- 10%, C0G/NP0, 0402|C66, C72|GCM155R71H103KA55D|2|MuRata|0402|0.01uF||
+19|Fitted|CAP, CERM, 100 pF, 25 V, +/- 5%, C0G/NP0, 0201|C78|C0603C0G1E101J030BA|1|TDK|0201|100pF||
+20|Fitted|Diode, Schottky, 40 V, 0.35 A, SOD-123|D1|SD103AW-7-F|1|Diodes Inc.|SOD-123|40V||
+21|Fitted|1-Channel ESD Protection Diode With Low Dynamic Resistance for HDMI 2.0 and USB 3.0, DPY0002A (X1SON-2)|D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20|TPD1E04U04DPYR|19|Texas Instruments|DPY0002A||Texas Instruments|TPD1E04U04DPYT
+22|Fitted|10 Pin to 10 Pin HRM Sensor Cable|H2|402320148|1|Biometric|Used in PnP output and some BOM reports||-|-
+23|Fitted|Cable, USB-A to micro USB-B, 0.3 m|H3|AK67421-0.3|1|Assman WSW||||
+24|Fitted|Receptacle, 50mil, 10x1, Gold, R/A, TH|J1, J2|851-43-010-20-001000|2|Mill-Max|receptacle 10x1, 50mil|||
+25|Fitted|Header, 2.54 mm, 3x1, Tin, TH|J3, J17|TSW-103-07-T-S|2|Samtec|Header, 2.54 mm, 3x1, TH|||
+26|Fitted|Touchproof Jack, R/A, TH|J4, J6, J9|41828|3|PlasticsOne|Touchproof Jack, R/A, TH|||
+27|Fitted|Header, 2.54 mm, 2x1, Tin, TH|J5, J7, J8, J11, J12, J13, J14, J15, J16|TSW-102-07-T-S|9|Samtec|Header, 2.54 mm, 2x1, TH|||
+28|Fitted|Connector, Receptacle, USB Micro B, R/A, SMT|J10|10118193-0001LF|1|FCI|Connector, Receptacle, USB Micro B, R/A, SMT|||
+29|Fitted|Inductor, Ferrite Bead, Ferrite, 0.2 A, 2.1 ohm, SMD|L1, L2, L3, L4, L12, L13, L14, L15|MMZ1005S182ET000|8|TDK|1x0.5mm|||
+30|Fitted|Inductor, Wirewound, Powdered Iron, 1.5 µH, 1.8 A, 0.114 ohm, SMD|L5|1286AS-H-1R5M=P2|1|MuRata|2.0x1.2x1.6mm|1.5uH||
+31|Fitted|Inductor, Wirewound, Ferrite, 2.2 uH, 1.8 A, 0.08 ohm, SMD|L6|74404024022|1|Wurth Elektronik|SMD, 2.5x2mm|2.2uH||
+32|Fitted|Ferrite Bead, 120 ohm @ 100 MHz, 0.5 A, 0603|L7, L9, L10, L11|BLM18AG121SN1D|4|MuRata|0603|120 ohm||
+33|Fitted|Inductor, Shielded, Ferrite, 10 uH, 0.48 A, 0.54 ohm, SMD|L8|LPS3010-103MRB|1|Coilcraft|LPS3010|10uH||
+34|Fitted|Thermal Transfer Printable Labels, 0.650" W x 0.200" H - 10,000 per roll|LBL1|THT-14-423-10|1|Brady|PCB Label 0.650 x 0.200 inch|||
+35|Fitted|LED, Green, SMD|LED1, LED3|SML-LX0603GW-TR|2|Lumex|LED, GREEN, 0603|Green||
+36|Fitted|LED, Super Red, SMD|LED2|SML-LX0603SRW-TR|1|Lumex|LED, 1.6x.6x.8mm|Super Red||
+37|Fitted|AFE4410/AFE4420 Sensor Board|PCB2|MHR041A|1|Texas Instruments|Used in PnP output and some BOM reports||-|-
+38|Fitted|Transistor, NPN, 25 V, 0.05 A, SOT-23|Q1|MMBT5089LT1G|1|ON Semiconductor|SOT-23|25 V||
+39|Fitted|RES, 0, 5%, 0.05 W, AEC-Q200 Grade 1, 0201|R1, R2, R27, R28, R29, R30, R31, R32, R46, R47, R48, R49, R50, R51, R52, R53, R62, R63, R64, R65, R66|ERJ-1GE0R00C|21|Panasonic|0201|0||
+40|Fitted|RES, 0, 5%, 0.05 W, 0201|R3, R8, R71, R73|CRCW02010000Z0ED|4|Vishay-Dale|0201|0||
+41|Fitted|RES, 100 k, 0.5%, 0.05 W, 0201|R4, R10, R70|RC0201DR-07100KL|3|Yageo America|0201|100k||
+42|Fitted|RES, 51.0 k, 1%, 0.05 W, 0201|R5, R12, R72|RC0201FR-0751KL|3|Yageo America|0201|51.0k||
+43|Fitted|RES, 499 k, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R11, R35, R67|CRCW0402499KFKED|3|Vishay-Dale|0402|499k||
+44|Fitted|RES, 47 k, 5%, 0.063 W, AEC-Q200 Grade 0, 0402|R13, R83, R126|CRCW040247K0JNED|3|Vishay-Dale|0402|47k||
+45|Fitted|RES, 10.0 k, 1%, 0.1 W, 0402|R14, R15, R16, R17, R19, R21, R22, R24, R25|ERJ-2RKF1002X|9|Panasonic|0402|10.0k||
+46|Fitted|RES, 100, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R82, R90|CRCW0402100RFKED|2|Vishay-Dale|0402|100||
+47|Fitted|RES, 0, 5%, 0.063 W, AEC-Q200 Grade 0, 0402|R84, R92, R93, R95, R97, R102, R103, R108, R111, R118, R130|CRCW04020000Z0ED|11|Vishay-Dale|0402|0||
+48|Fitted|RES, 1.40 k, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R85|CRCW04021K40FKED|1|Vishay-Dale|0402|1.40k||
+49|Fitted|RES, 33, 5%, 0.063 W, AEC-Q200 Grade 0, 0402|R86, R87|CRCW040233R0JNED|2|Vishay-Dale|0402|33||
+50|Fitted|RES, 33 k, 5%, 0.063 W, AEC-Q200 Grade 0, 0402|R88|CRCW040233K0JNED|1|Vishay-Dale|0402|33k||
+51|Fitted|RES, 1.00 M, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R89, R110|CRCW04021M00FKED|2|Vishay-Dale|0402|1.00Meg||
+52|Fitted|RES, 4.7 k, 5%, 0.063 W, AEC-Q200 Grade 0, 0402|R91, R98, R99, R127|CRCW04024K70JNED|4|Vishay-Dale|0402|4.7k||
+53|Fitted|RES, 10.0 k, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R94|CRCW040210K0FKED|1|Vishay-Dale|0402|10.0k||
+54|Fitted|RES, 10.0, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R96, R100, R101|CRCW040210R0FKED|3|Vishay-Dale|0402|10.0||
+55|Fitted|RES, 220, 5%, 0.063 W, AEC-Q200 Grade 0, 0402|R104|CRCW0402220RJNED|1|Vishay-Dale|0402|220||
+56|Fitted|RES, 130, 5%, 0.063 W, AEC-Q200 Grade 0, 0402|R105|CRCW0402130RJNED|1|Vishay-Dale|0402|130||
+57|Fitted|RES, 0, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R106, R120, R121, R122, R124, R125|CRCW06030000Z0EA|6|Vishay-Dale|0603|0||
+58|Fitted|RES, 0, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R107, R128, R129|ERJ-3GEY0R00V|3|Panasonic|0603|0||
+59|Fitted|RES, 953 k, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R109|CRCW0402953KFKED|1|Vishay-Dale|0402|953k||
+60|Fitted|RES, 47, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R112|CRCW060347R0JNEA|1|Vishay-Dale|0603|47||
+61|Fitted|RES, 180 k, 5%, 0.063 W, AEC-Q200 Grade 0, 0402|R114|CRCW0402180KJNED|1|Vishay-Dale|0402|180k||
+62|Fitted|RES, 1.00 M, 1%, 0.1 W, AEC-Q200 Grade 0, 0603|R117|CRCW06031M00FKEA|1|Vishay-Dale|0603|1.00Meg||
+63|Fitted|RES, 255 k, 1%, 0.1 W, AEC-Q200 Grade 0, 0603|R119|CRCW0603255KFKEA|1|Vishay-Dale|0603|255k||
+64|Fitted|RES, 75.0 k, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R123|CRCW040275K0FKED|1|Vishay-Dale|0402|75.0k||
+65|Fitted|Switch, Tactile, SPST-NO, 0.05A, 12V, SMD|S1, S2|RS-032G05A3-SM RT|2|C&K Components|SPST, 6x3.5mm|||
+66|Fitted|Shunt, 100mil, Gold plated, Black|SH-8, SH-J3, SH-J5, SH-J7, SH-J12, SH-J14, SH-J15|881545-2|7|TE Connectivity|Shunt 2 pos. 100 mil|||
+67|Fitted|Test Point, Miniature, White, TH|TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9|5002|9|Keystone|White Miniature Testpoint|||
+68|Fitted|Test Point, Miniature, Black, TH|TP10, TP11, TP12, TP13|5001|4|Keystone|Black Miniature Testpoint|||
+69|Fitted|Ultra-Small, Integrated AFE for Wearable Optical Heart-Rate Monitoring, SpO2 and Electrical Bio-sensing, YBG0036-C01 (DSBGA-36)|U1|AFE4950YGB|1|Texas Instruments|YBG0036-C01||Texas Instruments|
+70|Fitted|Dual Input Li-Ion Charger with Dynamic Power Path, Output regulated to 4.4 V, Vbat 4.2 V, 4.3 V, -40 to 85 degC, 20-pin QFN (RHL), Green (RoHS & no Sb/Br)|U18|BQ24032ARHLR|1|Texas Instruments|RHL0020A|||
+71|Fitted|4-Bit Bidirectional Voltage-Level Shifter with Auto Direction Sensing and +/-15 kV ESD Protect, YZT0012ACAC (DSBGA-12)|U19, U21|TXB0104YZTR|2|Texas Instruments|YZT0012ACAC||Texas Instruments|
+72|Fitted|2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, YZP0008ADCD (DSBGA-8)|U20|TXS0102YZPR|1|Texas Instruments|YZP0008ADCD||Texas Instruments|
+73|Fitted|2-Bit Bidirectional Voltage-Level Translator with Auto Direction Sensing and +/-15-kV ESD Protect, YZP0008ADAD, LARGE T&R|U22|TXB0102YZPR|1|Texas Instruments|YZP0008ADAD|||
+74|Fitted|ESD-Protection Array for High-Speed Data Interfaces, 4 Channels, -40 to +85 degC, 6-pin SON (DRY), Green (RoHS & no Sb/Br)|U26|TPD4E004DRYR|1|Texas Instruments|DRY0006A|||
+75|Fitted|Voltage Monitor with Manual Reset, DBV0005A (SOT-23-5)|U27|TPS3825-33DBVR|1|Texas Instruments|DBV0005A||Texas Instruments|TPS3825-33DBVT
+76|Fitted|25 MHz Mixed Signal Microcontroller with 128 KB Flash, 8192 B SRAM and 63 GPIOs, -40 to 85 degC, 80-pin QFP (PN), Green (RoHS & no Sb/Br)|U28|MSP430F5529IPN|1|Texas Instruments|PN0080A|||
+77|Fitted|Tiny Single Inductor Buck Boost Converter, YFF0012AFAF (DSBGA-12)|U29|TPS63050YFFR|1|Texas Instruments|YFF0012AFAF||Texas Instruments|TPS63050YFFT
+78|Fitted|Synchronous Boost Converter with 800 nA Ultra-Low Quiescent Current, YFF0006AFAD (DSBGA-6)|U30|TPS61099YFFR|1|Texas Instruments|YFF0006AFAD||Texas Instruments|TPS61099YFFT
+79|Fitted|Single Output High PSRR LDO, 150 mA, Adjustable 1.2 to 33 V Output, 3 to 36 V Input, with Ultra-Low Noise, 8-pin MSOP (DGN), -40 to 125 degC, Green (RoHS & no Sb/Br)|U31|TPS7A4901DGNT|1|Texas Instruments|DGN0008D|||
+80|Fitted|250-mA, Ultralow IQ, Fast Transient Response, RF Low-Dropout Linear Regulator, YFF0004AUAB_A1 (DSBGA-4)|U32|TPS72718YFFR|1|Texas Instruments|YFF0004AUAB_A1||Texas Instruments|TPS72718YFFT
+81|Fitted|CRYSTAL, 32.768KHz, 12.5PF, SMD|Y1|ABS07-32.768KHZ-T|1|Abracon Corporation|3.2x0.9x1.5mm|||
+82|Fitted|Crystal, 24 MHz, 10 pF, SMD|Y2|ABM3B-24.000MHZ-10-1-U-T|1|Abracon Corporation|Crystal, 3.2x1.1x5.x mm|||
+83|Not Fitted|CAP, CERM, 10 uF, 6.3 V, +/- 20%, X5R, 0603|C11|C0603C106M9PACTU|0|Kemet|0603|10uF||
+84|Not Fitted|CAP, CERM, 0.1 uF, 16 V, +/- 10%, X7R, 0402|C12, C21, C22|0402YC104KAT2A|0|AVX|0402|0.1uF||
+85|Not Fitted|CAP, TA, 22 uF, 6.3 V, +/- 20%, 5.4 ohm, SMD|C18|TLJN226M006R5400|0|AVX|2012-10|22uF||
+86|Not Fitted|CAP, CERM, 10 uF, 6.3 V, +/- 20%, X5R, 0402|C27|GRM155R60J106ME44D|0|MuRata|0402|10uF||
+87|Not Fitted|CAP, CERM, 100 pF, 25 V, +/- 5%, C0G/NP0, 0201|C32|C0603C0G1E101J030BA|0|TDK|0201|100pF||
+88|Not Fitted|CAP, CERM, 1000 pF, 25 V, +/- 10%, X5R, 0201|C35|C0603X5R1E102K030BA|0|TDK|0201|1000pF||
+89|Not Fitted|CAP, CERM, 10 pF, 50 V, +/- 5%, C0G/NP0, 0402|C62|500R07S100JV4T|0|Johanson Technology|0402|10pF||
+90|Not Fitted|CAP, CERM, 22 pF, 250 V,+/- 5%, C0G/NP0, AEC-Q200 Grade 1, 0603|C63|AC0603JRNPOYBN220|0|Yageo America|0603|22pF||
+91|Not Fitted|CAP, CERM, 47 pF, 25 V, +/- 5%, C0G/NP0, 0201|C77|GRM0335C1E470JA01D|0|MuRata|0201|47pF||
+92|Not Fitted|Fiducial mark.  There is nothing to buy or mount.|FID1, FID2, FID3, FID4, FID5, FID6|N/A|0|N/A|N/A|||
+93|Not Fitted|Header, 100mil, 4x1, Gold, TH|J110|TSW-104-07-G-S|0|Samtec|4x1 Header|||
+94|Not Fitted|RES, 200 M, 5%, 0.1 W, 0603|R6, R7|CRCW0603200MJPEAHR|0|Vishay-Dale|0603|200Meg||
+95|Not Fitted|RES, 499, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R9|CRCW0402499RFKED|0|Vishay-Dale|0402|499||
+96|Not Fitted|RES, 10.0 k, 1%, 0.1 W, 0402|R18, R20, R23, R26|ERJ-2RKF1002X|0|Panasonic|0402|10.0k||
+97|Not Fitted|RES, 0, 5%, 0.05 W, AEC-Q200 Grade 1, 0201|R33, R34, R37, R40, R43, R44, R45|ERJ-1GE0R00C|0|Panasonic|0201|0||
+98|Not Fitted|RES, 0, 5%, 0.063 W, AEC-Q200 Grade 0, 0402|R36, R38, R39, R41, R56, R57, R58, R59, R60, R61, R68, R69, R113, R115, R116, R131|CRCW04020000Z0ED|0|Vishay-Dale|0402|0||
+99|Not Fitted|RES, 499 k, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R42|CRCW0402499KFKED|0|Vishay-Dale|0402|499k||
+100|Not Fitted|RES, 10.0 k, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R54, R55|CRCW040210K0FKED|0|Vishay-Dale|0402|10.0k||
+101|Not Fitted|RES, 49.9 k, 1%, 0.063 W, AEC-Q200 Grade 0, 0402|R74|CRCW040249K9FKED|0|Vishay-Dale|0402|49.9k||
+102|Not Fitted|Shunt, 100mil, Gold plated, Black|SH-J11, SH-J13, SH-J16, SH-J17|881545-2|0|TE Connectivity|Shunt 2 pos. 100 mil|||

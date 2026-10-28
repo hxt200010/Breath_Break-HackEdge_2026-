@@ -1,0 +1,47 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+SHELL = cmd.exe
+
+# Add inputs and outputs from these tool invocations to the build variables 
+CMD_SRCS += \
+../lnk_msp430f5529.cmd 
+
+C_SRCS += \
+../EVM_Hardware.c \
+../hal.c \
+../main.c \
+../pcComm.c 
+
+C_DEPS += \
+./EVM_Hardware.d \
+./hal.d \
+./main.d \
+./pcComm.d 
+
+OBJS += \
+./EVM_Hardware.obj \
+./hal.obj \
+./main.obj \
+./pcComm.obj 
+
+OBJS__QUOTED += \
+"EVM_Hardware.obj" \
+"hal.obj" \
+"main.obj" \
+"pcComm.obj" 
+
+C_DEPS__QUOTED += \
+"EVM_Hardware.d" \
+"hal.d" \
+"main.d" \
+"pcComm.d" 
+
+C_SRCS__QUOTED += \
+"../EVM_Hardware.c" \
+"../hal.c" \
+"../main.c" \
+"../pcComm.c" 
+
+
